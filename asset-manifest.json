@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sdpklu/static/css/main.478afe94.css",
+    "main.js": "/sdpklu/static/js/main.4ce1f9db.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/sdpklu/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/hiiiii.webp": "/sdpklu/static/media/hiiiii.ff4b447714081a756832.webp",
+    "static/media/lifehealthcss.webp": "/sdpklu/static/media/lifehealthcss.10453866df0ebcb39556.webp",
+    "static/media/123.jpg": "/sdpklu/static/media/123.ff8f0393f3914ece48a9.jpg",
+    "static/media/medico.avif": "/sdpklu/static/media/medico.d3f85ba239df559c232f.avif",
+    "index.html": "/sdpklu/index.html",
+    "main.478afe94.css.map": "/sdpklu/static/css/main.478afe94.css.map",
+    "main.4ce1f9db.js.map": "/sdpklu/static/js/main.4ce1f9db.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/sdpklu/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478afe94.css",
+    "static/js/main.4ce1f9db.js"
+  ]
+}
